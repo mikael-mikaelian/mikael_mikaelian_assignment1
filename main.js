@@ -36,8 +36,3 @@ var int = 4;
 var myBoolean = new Boolean();
 myBoolean = false;
 
-if(myBoolean == true)
-{
-    console.log("hello");
-}
-
